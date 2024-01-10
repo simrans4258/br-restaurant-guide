@@ -2,8 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [Omonia cafe]()
-## [something greek]()
+## [Omonia Cafe]()
+## [Something Greek]()
 ---
 
 [Back to european](European/european.md).
