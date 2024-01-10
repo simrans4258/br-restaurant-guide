@@ -1,11 +1,11 @@
 # Bay Ridge Restaurant Guide
-## European
+## Middle Eastern
 ---
-Select a specific European food:
+Select a specific Middle-Eastern food:
 
-## [Palestinian](Middle-Eastern/palestinian.md)
+## [Palestinian](palestinian.md)
 
-## [Yemeni](Middle-Eastern/yemeni.md)
+## [Yemeni](yemeni.md)
 
 ---
 [Start Over](../home.md)
