@@ -2,8 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [Omonia cafe]()
-## [something greek]()
+## [Omonia cafe](https://omoniacafe.com/)
+## [something greek](https://www.somethingreekonline.com/)
 ---
 
 [Back to european](European/european.md).
