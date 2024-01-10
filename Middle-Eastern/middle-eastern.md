@@ -3,9 +3,9 @@
 ---
 Select a specific European food:
 
-## [Palestinian](Middle-eastern/palestinian.md)
+## [Palestinian](Middle-Eastern/palestinian.md)
 
-## [Yemeni](Middle-eastern/yemeni.md)
+## [Yemeni](Middle-Eastern/yemeni.md)
 
 ---
 [Start Over](../home.md)
