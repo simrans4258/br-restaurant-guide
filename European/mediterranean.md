@@ -1,10 +1,10 @@
 # Bay Ridge Restaurant Guide
-## European --> mediterranean
+## Mediterranean
 ---
 Select a restaurant:
-## [Tanoreen]()
-## [Le Sajj]()
----
 
+## [tanoreen](https://tanoreen.com/)
+## [Le sajj](https://lesajjbk.com/)
+---
 [Back to european](European/european.md).
 [Start Over](../home.md)
