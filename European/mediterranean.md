@@ -3,7 +3,7 @@
 ---
 Select a restaurant:
 
-## [tanoreen](https://tanoreen.com/)
+## [Tanoreen](https://tanoreen.com/)
 ## [Le sajj](https://lesajjbk.com/)
 ---
 [Back to european](European/european.md).
